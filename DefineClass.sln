@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManufacturer", "CarManufacturer\CarManufacturer.csproj", "{2A752AA6-79B8-40F0-BE7F-BECCE269CC4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{6BE9A39A-86E9-4A23-ABCE-650B80FA6FB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedRacing", "05. Date Modifier\SpeedRacing.csproj", "{AFD4F1AF-8ABD-4F93-93E6-28A29E384FFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RawData", "RawData\RawData.csproj", "{BC161ACA-1985-406E-9671-271231B3A636}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{5CD1B3D1-78E7-4FAF-8879-EFE59344641A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{02E785EA-B638-4597-81C1-C1CA3D105857}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniParking", "..\..\..\OneDrive\Работен плот\SoftUniParking\SoftUniParking.csproj", "{79FAA7F9-A129-46CE-99D3-2CEFC08F0002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A752AA6-79B8-40F0-BE7F-BECCE269CC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A752AA6-79B8-40F0-BE7F-BECCE269CC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A752AA6-79B8-40F0-BE7F-BECCE269CC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A752AA6-79B8-40F0-BE7F-BECCE269CC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE9A39A-86E9-4A23-ABCE-650B80FA6FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE9A39A-86E9-4A23-ABCE-650B80FA6FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE9A39A-86E9-4A23-ABCE-650B80FA6FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE9A39A-86E9-4A23-ABCE-650B80FA6FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD4F1AF-8ABD-4F93-93E6-28A29E384FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD4F1AF-8ABD-4F93-93E6-28A29E384FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD4F1AF-8ABD-4F93-93E6-28A29E384FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD4F1AF-8ABD-4F93-93E6-28A29E384FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC161ACA-1985-406E-9671-271231B3A636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC161ACA-1985-406E-9671-271231B3A636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC161ACA-1985-406E-9671-271231B3A636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC161ACA-1985-406E-9671-271231B3A636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD1B3D1-78E7-4FAF-8879-EFE59344641A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD1B3D1-78E7-4FAF-8879-EFE59344641A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD1B3D1-78E7-4FAF-8879-EFE59344641A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD1B3D1-78E7-4FAF-8879-EFE59344641A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E785EA-B638-4597-81C1-C1CA3D105857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E785EA-B638-4597-81C1-C1CA3D105857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E785EA-B638-4597-81C1-C1CA3D105857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E785EA-B638-4597-81C1-C1CA3D105857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FAA7F9-A129-46CE-99D3-2CEFC08F0002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FAA7F9-A129-46CE-99D3-2CEFC08F0002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FAA7F9-A129-46CE-99D3-2CEFC08F0002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FAA7F9-A129-46CE-99D3-2CEFC08F0002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F98E9C1-7C56-422A-8764-A5FCCBAF9B29}
+	EndGlobalSection
+EndGlobal
